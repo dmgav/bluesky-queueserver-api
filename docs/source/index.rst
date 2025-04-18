@@ -10,6 +10,7 @@ Bluesky Queue Server API Documentation
    :maxdepth: 2
 
    installation
+   tutorials
    usage
    api-reference
    release-history
